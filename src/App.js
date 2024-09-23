@@ -1,4 +1,3 @@
-import './App.css';
 import WheatherHome from './components/WheatherHome';
 
 function App() {
